@@ -7,7 +7,7 @@ I like programming and everything, related to programming. Mostly I'm interested
 Besides programming, I also play computer games, watch post-apocalyptic movies, and try to socialize.
 
 Currently I:
-- interested in and learning <a href="https://vlang.io/" target="_blank">V</a>
+- interested in <a href="https://vlang.io/" target="_blank">V</a>
 - work in <a href="https://4experience.co/" target="_blank">4Experience</a> as Unity Developer
 
 Things I'm experienced in:
