@@ -4,7 +4,7 @@ I like programming and everything, related to programming. Mostly I'm interested
 Besides programming, I also play computer games, watch post-apocalyptic movies, and try to socialize.
 
 Currently I:
-- interested in and learning <a href="https://vlang.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/Icons/v.png" alt="vlang" height="42px"/></a>
+- interested in and learning <a href="https://vlang.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ArtemkaKun/Icons/v.png" alt="vlang" height="42px"/></a>
 - working in <a href="https://4experience.co/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/Icons/4exp.png" alt="4Experience" height="42px"/></a> as Unity Developer
 
 Things I'm experienced in:
