@@ -1,3 +1,5 @@
+<img display="inline" src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/stop.jpg" alt="stop"/>
+
 ### THIS IS A PAGE OF ARTEM. DO NOT TOUCH ANYTHING!
 
 <a href="mailto:zumikq78@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
