@@ -16,10 +16,10 @@ Things I'm familiar with:
 
 <a href="https://vlang.io/" target="_blank"> <img display="inline" src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/v.png" alt="vlang" height="50px"/></a>
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/jenkins.png" alt="jenkins" height="50px"/></a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/docker.jpg" alt="docker" height="50px"/></a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/docker.png" alt="docker" height="50px"/></a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/linux.png" alt="linux" height="50px"/></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/Blazor.png" alt="blazor" height="50px"/></a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/js.jpg" alt="js" height="50px"/></a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/js.png" alt="js" height="50px"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/sql.png" alt="sql" height="50px"/></a>
 
 I know the next languages:
