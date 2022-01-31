@@ -2,7 +2,7 @@
   <img align="center" src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/stop.jpg" alt="stop"/>
 </p>
 
-<h2 align="center">THIS IS A PAGE OF ARTEM. DO NOT TOUCH ANYTHING!</h2>
+<h2 align="center">STOP! THIS IS A PAGE OF ARTEM. DO NOT TOUCH ANYTHING!</h2>
 
 <a href="mailto:zumikq78@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="t.me/username" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
