@@ -3,6 +3,7 @@
 <a href="mailto:zumikq78@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="t.me/username" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/mag1377artemka/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/artem-yurchenko-170500/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 I like programming and everything, related to programming. Mostly I'm interested in game development and backend stuff.
 Besides programming, I also play computer games, watch post-apocalyptic movies, and try to socialize.
