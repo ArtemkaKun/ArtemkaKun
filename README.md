@@ -9,8 +9,8 @@
 <a href="https://steamcommunity.com/id/mag1377artemka/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/artem-yurchenko-170500/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-I like programming and everything related to programming. I'm mostly interested in game development and backend stuff.
-Besides programming I also play computer games, watch post-apocalyptic movies and try to socialize.
+I like programming and everything related to it. I'm mostly interested in game development and backend stuff.
+Besides that I also play computer games, watch post-apocalyptic movies and try to socialize.
 
 Currently I:
 - interested in <a href="https://vlang.io/" target="_blank">V</a>
@@ -33,9 +33,10 @@ Things I'm familiar with:
 
 I know the following languages:
 
-<img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/us.png" alt="en-us" height="38px"/> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/ru.png" alt="ru" height="38px"/>
-<img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/pl.svg" alt="pl" height="38px"/>
-<img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/ua.png" alt="ua" height="38px"/>
+- English
+- Russian
+- Polish
+- Ukrainian
 
 My favorite games:
 - Dark Souls (all)
