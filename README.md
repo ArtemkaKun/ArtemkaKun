@@ -27,7 +27,7 @@ Things I'm familiar with:
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/js.png" alt="js" height="50px"/></a>
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/sql.png" alt="sql" height="50px"/></a>
 
-I know the next languages:
+I know the following languages:
 
 <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/us.png" alt="en-us" height="38px"/> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/ru.png" alt="ru" height="38px"/>
 <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/pl.svg" alt="pl" height="38px"/>
