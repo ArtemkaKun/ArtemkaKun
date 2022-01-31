@@ -5,7 +5,7 @@ Besides programming, I also play computer games, watch post-apocalyptic movies, 
 
 Currently I:
 - interested in and learning <a href="https://vlang.io/" target="_blank">V</a>
-- working in <a href="https://4experience.co/" target="_blank">4Experience</a> as Unity Developer
+- work in <a href="https://4experience.co/" target="_blank">4Experience</a> as Unity Developer
 
 Things I'm experienced in:
 
