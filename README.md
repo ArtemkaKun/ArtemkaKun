@@ -17,8 +17,7 @@ I'm mostly interested in game development and backend stuff. Besides that, I als
 
 Currently I:
 - interested in <a href="https://vlang.io/" target="_blank">V</a>
-- work in <a href="https://4experience.co/" target="_blank">4Experience</a> as Unity Developer
-- on my way to move away from the Unity game engine
+- work in <a href="https://www.linkedin.com/company/superbrightvr/about/" target="_blank">Superbright</a> as a DevOps/Backend developer
 
 Things I'm experienced in:
 
