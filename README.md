@@ -11,7 +11,7 @@
 
 <a href="https://yuart.me/" target="_blank">Portfolio webpage</a>
 
-Hi, my name is Artem, I'm 22 years old and I like programming and everything related to it.
+Hi, my name is Artem, I'm 23 years old and I like programming and everything related to it.
 
 I'm mostly interested in game development and backend stuff. Besides that, I also play computer games, watch post-apocalyptic movies and try to socialize.
 
