@@ -52,3 +52,4 @@ My favorite post-apocalyptic movies:
 - 28 Days later
 - The Road
 - I am Legend
+- The Battery
