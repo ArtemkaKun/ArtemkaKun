@@ -16,7 +16,7 @@ Hi, my name is Artem, I'm 23 years old and I like programming and everything rel
 I'm mostly interested in game development and backend stuff. Besides that, I also play computer games, watch post-apocalyptic movies and try to socialize.
 
 Currently I:
-- interested in <a href="https://vlang.io/" target="_blank">V</a>
+- looking for my next favorite programming language 
 - work in <a href="https://www.linkedin.com/company/superbrightvr/about/" target="_blank">Superbright</a> as a DevOps/Backend developer
 
 Things I'm experienced in:
