@@ -51,5 +51,3 @@ My favorite post-apocalyptic movies:
 - The Road
 - I am Legend
 - The Battery
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ArtemkaKun/langs)](https://githubtrends.io)
