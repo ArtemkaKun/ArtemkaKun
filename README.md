@@ -11,26 +11,11 @@
 
 Hi, my name is Artem, I'm 23 years old and I like programming and everything related to it.
 
-I'm mostly interested in game development and backend stuff. Besides that, I also play computer games, watch post-apocalyptic movies and try to socialize.
+I'm mostly interested in game development and backend stuff. Besides that, I also play computer games, watch post-apocalyptic movies, and socialize.
 
 Currently I:
 - looking for my next favorite programming language 
 - work in <a href="https://www.linkedin.com/company/superbrightvr/about/" target="_blank">Superbright</a> as a DevOps/Backend developer
-
-Things I'm experienced in:
-
-<a href="https://unity.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/unity.png" alt="unity" height="50px"/></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/csharp.png" alt="csharp" height="50px"/></a>
-<a href="https://vlang.io/" target="_blank"> <img display="inline" src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/v.png" alt="vlang" height="50px"/></a>
-
-Things I'm familiar with:
-
-<a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/jenkins.png" alt="jenkins" height="50px"/></a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/docker.png" alt="docker" height="50px"/></a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/linux.png" alt="linux" height="50px"/></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/Blazor.png" alt="blazor" height="50px"/></a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/js.png" alt="js" height="50px"/></a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://raw.githubusercontent.com/ArtemkaKun/ArtemkaKun/main/Icons/sql.png" alt="sql" height="50px"/></a>
 
 I know the following languages:
 
