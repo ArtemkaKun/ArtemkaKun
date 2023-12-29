@@ -15,7 +15,7 @@ I'm mostly interested in game development and backend stuff. Besides that, I als
 
 Currently I:
 - looking for my next favorite programming language 
-- work in <a href="https://www.linkedin.com/company/superbrightvr/about/" target="_blank">Superbright</a> as a DevOps/Backend developer
+- looking for a new job
 
 I know the following languages:
 
