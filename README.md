@@ -15,7 +15,7 @@ I'm mostly interested in game development and backend stuff. Besides that, I als
 
 Currently I:
 - looking for my next favorite programming language 
-- looking for a new job
+- working at [Anshar Studios](https://ansharstudios.com/) as DevOps Engineer
 
 I know the following languages:
 
