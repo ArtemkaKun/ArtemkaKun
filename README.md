@@ -9,12 +9,12 @@
 <a href="https://steamcommunity.com/id/mag1377artemka/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yuart/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-Hi, my name is Artem, I'm 23 years old and I like programming and everything related to it.
+Hi, my name is Artem, I'm 24 years old and I like programming and everything related to it.
 
 I'm mostly interested in game development and backend stuff. Besides that, I also play computer games, watch post-apocalyptic movies, and socialize.
 
 Currently I:
-- looking for my next favorite programming language 
+- creating a top-down zombie 3D shooter with Godot
 - working at [Anshar Studios](https://ansharstudios.com/) as DevOps Engineer
 
 I know the following languages:
