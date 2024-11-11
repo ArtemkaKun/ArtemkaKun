@@ -27,12 +27,13 @@ I know the following languages:
 My favorite games:
 - Dark Souls (all)
 - Half-Life Alyx
-- Skyrim
-- Zelda BOTW
+- Stalker (all)
 - Metro 2033 and Metro Last Light
+- Baldur's Gate 3
 
 My favorite post-apocalyptic movies:
 - 28 Days later
 - The Road
 - I am Legend
 - The Battery
+- The Night Eats the World
