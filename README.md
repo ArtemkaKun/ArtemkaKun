@@ -14,7 +14,7 @@ Hi, my name is Artem, I'm 24 years old and I like programming and everything rel
 I'm mostly interested in game development and backend stuff. Besides that, I also play computer games, watch post-apocalyptic movies, and socialize.
 
 Currently I:
-- creating a top-down zombie 3D shooter with Godot
+- looking for a next interesting project
 - working at [Anshar Studios](https://ansharstudios.com/) as DevOps Engineer
 
 I know the following languages:
