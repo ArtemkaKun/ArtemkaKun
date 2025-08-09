@@ -15,7 +15,7 @@ I'm mostly interested in game development and backend stuff. Besides that, I als
 
 Currently I:
 - looking for a next interesting project
-- working at [Anshar Studios](https://ansharstudios.com/) as DevOps Engineer
+- working at [TaskMaverick](https://www.taskmaverick.com) as DevOps Engineer
 
 I know the following languages:
 
