@@ -11,10 +11,10 @@
 
 Hi, my name is Artem, I'm 25 years old and I like programming and everything related to it.
 
-I'm mostly interested in game development and backend stuff. Besides that, I also play computer games, watch post-apocalyptic movies, and socialize.
+I'm mostly interested in DevOps, game development, and backend stuff. Besides that, I also play computer games, watch post-apocalyptic movies, and socialize.
 
 Currently I:
-- looking for a next interesting project
+- working on personal project
 - working at [TaskMaverick](https://www.taskmaverick.com) as DevOps Engineer
 
 I know the following languages:
